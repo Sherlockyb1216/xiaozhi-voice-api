@@ -1,0 +1,17 @@
+# 上游 provider 代码（不放仓库，见 README）
+core/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 环境与密钥
+.env
+*.log
+
+# 运行时产物
+tmp/*.mp3
+tmp/*.wav
+*.db
